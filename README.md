@@ -3,7 +3,9 @@
 
 # 使用方法
 ## 添加仓库地址
-'''
+
+
+```
 allprojects {
 		repositories {
 			...
@@ -11,10 +13,12 @@ allprojects {
 		}
 	}
 
-'''
+```
+
 ## 加入依赖库
-	'''
-  dependencies {
+
+```
+ dependencies {
 	        compile 'com.github.lansehuoying:SandStorm:V1.0'
 	}
-  '''
+```
